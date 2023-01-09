@@ -1,0 +1,9 @@
+com\inatel\listener\AppStartupListener.class
+com\inatel\model\Stock.class
+com\inatel\service\QuoteService.class
+com\inatel\QuotationManagementApplication.class
+com\inatel\repository\StockQuoteRepository.class
+com\inatel\service\StockService.class
+com\inatel\service\NotificationService.class
+com\inatel\model\StockQuote.class
+com\inatel\controller\QuoteController.class
